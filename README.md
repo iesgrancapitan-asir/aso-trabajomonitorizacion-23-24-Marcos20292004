@@ -9,7 +9,43 @@
  # 2  La herramienta XXX
  ## 2.1  Historia
  ## 2.2  Funciones/utilidades y características. Ventajas y desventajas
-	Nota: hablar de versiones gratuitas y pago (funcionalidades de pago)
+	
+Inciga: Una plataforma para la gestión electrónica de la administración pública
+Inciga es una plataforma que permite a las administraciones públicas gestionar de forma electrónica los expedientes administrativos, la tramitación de procedimientos, la comunicación con los ciudadanos, la firma electrónica y el pago electrónico.
+
+- Funciones:
+
+  - Gestión de expedientes: Creación, seguimiento y gestión de expedientes administrativos de forma electrónica.
+  - Tramitación electrónica: Presentación de solicitudes, consulta de expedientes y recepción de notificaciones.
+  - Comunicación electrónica: Envío de mensajes, solicitud de información y realización de trámites.
+  - Firma electrónica: Firma electrónica de documentos.
+  - Pago electrónico: Pago de tasas y otros tributos.
+
+- Utilidades:
+
+  - Mejora la eficiencia de la administración pública: Agiliza los trámites, reduce el tiempo de espera y los costes.
+  - Mejora la transparencia: Permite a los ciudadanos acceder a la información pública de forma más fácil.
+  - Mejora la participación ciudadana: Facilita la participación de los ciudadanos en la toma de decisiones.
+  - Mejora la accesibilidad: Permite a los ciudadanos acceder a los servicios públicos de forma más fácil.
+
+- Características:
+
+  - Plataforma segura y fiable: Cumple con los más altos estándares de seguridad.
+  - Fácil de usar: Tanto para la administración como para los ciudadanos.
+  - Personalizable: Se puede adaptar a las necesidades de cada administración.
+  - Escalable: Se puede adaptar a las necesidades de cualquier administración.
+
+- Ventajas:
+
+  - Mejora la eficiencia, la transparencia, la participación y la accesibilidad.
+  - Plataforma segura, fácil de usar, personalizable y escalable.
+
+- Desventajas:
+
+  - Coste de implementación: Puede ser costosa para las administraciones.
+  - Necesidad de formación: Los usuarios necesitan formación para usarla.
+  - Riesgo de brecha digital: Puede aumentar la brecha entre los ciudadanos con y sin acceso a internet.
+En general, Inciga es una plataforma que ofrece muchas ventajas para la administración pública y los ciudadanos. Sin embargo, es importante tener en cuenta las desventajas antes de su implementación.
  ## 2.3  Plataformas posibles donde instalar  requisitos (agentes y máquinas desde las que se monitoriza).
 	Sistemas y distros con versiones necesarias.  
  ## 2.4  Requisitos tanto de agentes como de máquinas de monitoreo.
